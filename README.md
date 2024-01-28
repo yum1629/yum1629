@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yum1629
+- 👋 Hi, I’m @yumi1629
 - 👀 I’m interested in web developing ideas
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
